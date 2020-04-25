@@ -44,7 +44,7 @@ const createProjectCards = (projectsArray) => {
       domString += `<h3>${projectsArray[i].description}</h3>`
       domString += `<p>${projectsArray[i].technologiesUsed}</p>`
       domString += `<h4><a href="${projectsArray[i].url}">ProjectLink</a></h4>`
-      domString += `<h5><a href="${projectsArray[i].githubUrl}"</a></h5>`
+      domString += `<h5><a href="${projectsArray[i].githubUrl}"></a></h5>`
       domString += '</div>'
     }
   }
