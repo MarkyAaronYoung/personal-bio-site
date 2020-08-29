@@ -1,0 +1,46 @@
+{
+  "Tamagotchi": {
+  "screenshot": "",
+  "description": "",
+  "technologiesUsed": ["HTML", "SASS", "JavaScript"],
+  "available": true,
+  "url": "",
+  "githubURL": "",
+  "id": "tamagotchi"
+},
+  "Bear Watcher": {
+  "screenshot": "",
+  "technologiesUsed": ["CSS", "JavaScript", "ES6 Modules"],
+  "available": true,
+  "url": "",
+  "githubURL": "",
+  "id": "bear"
+},
+"Jurassic World": {
+  "screenshot": "",
+  "description": "",
+  "technologiesUsed": ["JavaScript", "SASS", "Firebsase", "Axios"],
+  "available": true,
+  "url": "p/",
+  "githubURL": "",
+  "id": "jurassic"
+},
+"Le Baguette": {
+  "screenshot": "",
+  "description": "",
+  "technologiesUsed": ["JavaScript", "SASS", "Firebsase", "Axios", "Bootstrap"],
+  "available": true,
+  "url": "",
+  "githubURL": "",
+  "id": "baguette"
+},
+"Pinterest": {
+  "screenshot": "",
+  "description": "",
+  "technologiesUsed": ["JavaScript", "Firebase", "Axios", "SASS"],
+  "available": true,
+  "url":"",
+  "githubURL": "",
+  "id": "pinterest"
+}
+}

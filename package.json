@@ -1,0 +1,22 @@
+{
+  "name": "personal-bio-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/javascripts/main.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production --module-bind js=babel-loader",
+    "deploy": "npm run build && firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkyAaronYoung/personal-bio-site.git"
+  },
+  "keywords": [],
+  "author": "Mark Aaron Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkyAaronYoung/personal-bio-site/issues"
+  },
+  "homepage": "https://github.com/MarkyAaronYoung/personal-bio-site#readme"
+}
