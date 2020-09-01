@@ -1,46 +1,38 @@
 {
-  "Tamagotchi": {
-  "screenshot": "",
-  "description": "",
-  "technologiesUsed": ["HTML", "SASS", "JavaScript"],
-  "available": true,
-  "url": "",
-  "githubURL": "",
-  "id": "tamagotchi"
-},
-  "Bear Watcher": {
-  "screenshot": "",
-  "technologiesUsed": ["CSS", "JavaScript", "ES6 Modules"],
-  "available": true,
-  "url": "",
-  "githubURL": "",
-  "id": "bear"
-},
-"Jurassic World": {
-  "screenshot": "",
-  "description": "",
-  "technologiesUsed": ["JavaScript", "SASS", "Firebsase", "Axios"],
-  "available": true,
-  "url": "p/",
-  "githubURL": "",
-  "id": "jurassic"
-},
-"Le Baguette": {
-  "screenshot": "",
-  "description": "",
-  "technologiesUsed": ["JavaScript", "SASS", "Firebsase", "Axios", "Bootstrap"],
-  "available": true,
-  "url": "",
-  "githubURL": "",
-  "id": "baguette"
-},
-"Pinterest": {
-  "screenshot": "",
-  "description": "",
-  "technologiesUsed": ["JavaScript", "Firebase", "Axios", "SASS"],
-  "available": true,
-  "url":"",
-  "githubURL": "",
-  "id": "pinterest"
-}
+    "Chatty": {
+    "screenshot": "https://firebasestorage.googleapis.com/v0/b/personal-bio-site-84733.appspot.com/o/Screen%20Shot%202020-08-31%20at%207.02.16%20PM.png?alt=media&token=a03b8551-9202-40c5-947d-381593d15959",
+    "description": "A Game of Thrones themed messenger app built as a team project.",
+    "technologiesUsed": ["HTML", "SASS", "JavaScript", "JQuery", "ES6 Modules"],
+    "available": true,
+    "url": "https://chatty-104d7.web.app/",
+    "githubURL": "https://github.com/MarkyAaronYoung/chatty-gamme-got",
+    "id": "chatty"
+  },
+    "Pan Am Airlines": {
+    "screenshot": "https://firebasestorage.googleapis.com/v0/b/personal-bio-site-84733.appspot.com/o/Screen%20Shot%202020-08-31%20at%207.01.40%20PM.png?alt=media&token=a190d006-b06a-4797-859d-ad9e4b8e2e40",
+    "description": "A team built webpage for the now defunct airlines that is CRUD operational",
+    "technologiesUsed": ["SASS", "JavaScript", "ES6 Modules", "Firebase", "Axios"],
+    "available": true,
+    "url": "https://panam-airlines-aea42.web.app/",
+    "githubURL": "https://github.com/MarkyAaronYoung/nutshell-alces",
+    "id": "PanAm"
+  },
+  "Sports-Roster": {
+    "screenshot": "https://firebasestorage.googleapis.com/v0/b/personal-bio-site-84733.appspot.com/o/Screen%20Shot%202020-08-31%20at%207.03.39%20PM.png?alt=media&token=eb528f1f-a9a3-4c23-98cb-e3882f472ea6",
+    "description": "A React website that allows you to create, read, update, and delete (CRUD) footballl players on a team roster",
+    "technologiesUsed": ["React", "SASS", "Firebsase", "Axios"],
+    "available": true,
+    "url": "https://sports-roster-64170.web.app/",
+    "githubURL": "https://github.com/MarkyAaronYoung/sports-roster",
+    "id": "sports"
+  },
+  "Ren-Faire": {
+    "screenshot": "https://firebasestorage.googleapis.com/v0/b/personal-bio-site-84733.appspot.com/o/Screen%20Shot%202020-08-31%20at%207.02.38%20PM.png?alt=media&token=1bdbbdff-f888-43fb-b708-494e99ee3118",
+    "description": "A team project that allows users to create their own Renaissance Faires with staff, food, shows, and souvenirs. The app will also tabulate the cost of each event by item.",
+    "technologiesUsed": ["JavaScript", "JQuery", "SASS", "Firebsase", "Axios", "Bootstrap", "ES6 Modules"],
+    "available": true,
+    "url": "https://stealing-elks.web.app/",
+    "githubURL": "https://github.com/MarkyAaronYoung/nutshell-elk",
+    "id": "Ren"
+  }
 }

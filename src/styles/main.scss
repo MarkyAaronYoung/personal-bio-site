@@ -1,10 +1,12 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import 'styles';
 
 
 body {
-  background-color: whitesmoke;
-};
+  background-color: white;
+  color: #2767AD;
+  font-family: 'Quicksand', sans-serif;}
 
 .div {
   display: inline-block;
@@ -48,3 +50,23 @@ h3 {
 .nav-item  {
   float: left;
 } 
+
+.fa-github,
+.fa-arrow-left {
+  color: black;
+  transition: ease-in-out 200ms;
+
+  font-size: 2.8em;
+
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+.fa-github:hover,
+.fa-instagram:hover,
+.fa-arrow-left:hover {
+  cursor: pointer;
+  
+  color: #000;
+}

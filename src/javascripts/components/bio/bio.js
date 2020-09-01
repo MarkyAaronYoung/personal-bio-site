@@ -1,5 +1,5 @@
 import utils from '../../helpers/utils';
-import 'bootstrap'; 
+import 'bootstrap';
 
 const buildBio = () => {
   const domString = `
