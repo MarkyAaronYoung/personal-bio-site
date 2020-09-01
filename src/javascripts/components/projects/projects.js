@@ -59,7 +59,7 @@ const buildProjectCards = () => {
       domString += `
       </div>
       `;
-      utils.printToDom('#web-page', domString);
+      utils.printToDom('#website', domString);
       $('body').on('click', '#go-home', utils.goHome);
     })
     .catch((err) => console.error('get projects broke...', err));
