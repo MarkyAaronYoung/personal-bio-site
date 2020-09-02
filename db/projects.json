@@ -18,7 +18,7 @@
     "id": "PanAm"
   },
   "Sports-Roster": {
-    "screenshot": "https://firebasestorage.googleapis.com/v0/b/personal-bio-site-84733.appspot.com/o/Screen%20Shot%202020-08-31%20at%207.03.39%20PM.png?alt=media&token=eb528f1f-a9a3-4c23-98cb-e3882f472ea6",
+    "screenshot": "https://firebasestorage.googleapis.com/v0/b/personal-bio-site-84733.appspot.com/o/Screen%20Shot%202020-08-31%20at%207.02.38%20PM.png?alt=media&token=1bdbbdff-f888-43fb-b708-494e99ee3118",
     "description": "A React website that allows you to create, read, update, and delete (CRUD) footballl players on a team roster",
     "technologiesUsed": ["React", "SASS", "Firebsase", "Axios"],
     "available": true,

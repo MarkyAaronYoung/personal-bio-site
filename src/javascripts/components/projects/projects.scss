@@ -1,0 +1,46 @@
+#accordionExample {
+  margin-top: 15px;
+
+  .card {
+    margin: 0;
+    padding: 15px 0px;
+
+    justify-self: stretch;
+  }
+}
+
+.accordion {
+  margin-bottom: 30px;
+}
+
+.drop-btn:hover {
+  cursor: pointer;
+
+  // background-color: $shadow-color;
+  box-shadow: 2px 2px #000;
+}
+
+.used-tech {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-wrap: wrap;
+
+  // color: $primary-color;
+  padding: 10px;
+  margin: 0;
+}
+
+.view-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  margin-bottom: 20px;
+}
+
+.project-data {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;;
+}
