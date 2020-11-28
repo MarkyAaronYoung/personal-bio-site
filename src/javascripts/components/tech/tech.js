@@ -1,4 +1,5 @@
 import utils from '../../helpers/utils';
+import './tech.scss';
 
 const buildTech = () => {
   const domString = `
