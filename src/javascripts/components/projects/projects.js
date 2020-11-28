@@ -45,8 +45,8 @@ const buildProjectCards = () => {
                   <div class="project-data">
                     <p>${project.description}</p>
                     <div class="view-links">
-                      <a href="${project.url}" target="_blank">View Project</a>
-                      <a href="${project.githubURL}" target="_blank">View Repository</a>
+                      <a href="${project.url}" target="_blank"> View Project </a>
+                      <a href="${project.githubURL}" target="_blank"> View Repository </a>
                     </div>
                   </div>
                 </div>
