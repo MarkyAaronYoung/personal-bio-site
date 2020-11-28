@@ -1,5 +1,5 @@
 import bio from '../bio/bio';
-// import tech from '../tech/tech';
+import tech from '../tech/tech';
 import utils from '../../helpers/utils';
 import projects from '../projects/projects';
 import '../../../styles/main.scss';
@@ -34,7 +34,7 @@ const buildLandingPage = () => {
   `;
   utils.printToDom('#website', domString);
   $('body').on('click', '#proj', projects.buildProjectCards);
-  // $('body').on('click', '#tech', tech.buildTech);
+  $('body').on('click', '#tech', tech.buildTech);
   $('body').on('click', '#bio', bio.buildBio);
 };
 
