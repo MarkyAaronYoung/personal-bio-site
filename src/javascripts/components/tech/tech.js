@@ -3,6 +3,9 @@ import './tech.scss';
 
 const buildTech = () => {
   const domString = `
+  <div class="home">
+    <a id="go-home"><i class="fas fa-arrow-left"></i></a>
+  </div>
   <div id="tech-page">
     <div class="tech">
       <h2 id="tech-title" class="text-center">Technologies Learned</h2>
@@ -25,6 +28,7 @@ const buildTech = () => {
 `;
 
   utils.printToDom('#website', domString);
+  $('body').on('click', '#go-home', utils.goHome);
 };
 
 export default { buildTech };
