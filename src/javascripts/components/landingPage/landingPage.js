@@ -18,8 +18,8 @@ const buildLandingPage = () => {
         </div>
         <div class="d-flex flex-wrap justify-content-center pt-4 pb-4 ryan-info">
         <h4>[ Software Developer ]</h4>
-        // <h4>[ Behaviorial and Cultural Researcher]</h4>
-        // <h4>[ Substance Abuse Treatment ]<h4>
+        <h4>[ Healthcare Treatment and Admissions ]</h4>
+        <h4>[ Behavioral and Cultural Research ]<h4>
       </div>
         <ul class="button-group nav-group">
           <a class="bio" id="bio"><li>About Mark</li></a>

@@ -1,10 +1,17 @@
 import utils from '../../helpers/utils';
+import './bio.scss';
 import 'bootstrap';
 
 const buildBio = () => {
   const domString = `
     <div class="home">
       <a id="go-home"><i class="fas fa-arrow-left"></i></a>
+    </div>
+    <div class="profile-pic">
+    <img class="container"
+    src="https://firebasestorage.googleapis.com/v0/b/personal-bio-site-84733.appspot.com/o/ResumePicture.jpg?alt=media&token=d7570858-8577-47c8-b3e8-cbe2eea33ad1" alt="Profile Images">
+    </div>
+    <div class="bio-text">
       <p>Mark Aaron Young graduated from James Madison University in Harrisonburg, Virginia where he majored in Psychology and Anthropology. 
          There, he was a manager at the school’s animal laboratory on behavior analysis. 
          He studied abroad in Kenya and Pakistan, focusing on cultural differences in child discipline. 
